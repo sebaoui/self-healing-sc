@@ -26,3 +26,6 @@ storage/
 
 # Environment
 .env
+
+# Article Drafts
+article*.md
