@@ -2,7 +2,7 @@
 
 A web scraper that automatically detects broken CSS selectors and uses AI to repair them — without human intervention. Built with [Crawlee for Python](https://crawlee.dev/python/docs/quick-start), [Parsel](https://parsel.readthedocs.io/), and [OpenRouter](https://openrouter.ai/).
 
-> **📖 Full article:** [Self-Healing Web Scrapers: How I Used AI to Automatically Fix Broken CSS Selectors with Crawlee](./article.md)
+> **📖 Full article:** Read the full tutorial on the Apify/Crawlee Blog *(link coming soon!)*
 
 ## How it works
 
@@ -72,7 +72,6 @@ python self_healing_scraper.py
 ├── selectors.json             # CSS selector config (read/written by scraper)
 ├── articles.json              # Scraped output
 ├── requirements.txt           # Python dependencies
-├── article.md                 # Full blog article
 └── scripts/
     └── test-site/             # Next.js test site with breakable HTML
         ├── app/
