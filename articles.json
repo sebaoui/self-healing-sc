@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "How AI is Transforming Modern Businesses"
+    },
+    {
+      "id": 2,
+      "title": "Beginner’s Guide to Web Scraping in 2026"
+    },
+    {
+      "id": 3,
+      "title": "Top 10 Side Hustles You Can Start Today"
+    },
+    {
+      "id": 4,
+      "title": "Understanding APIs: A Simple Explanation"
+    },
+    {
+      "id": 5,
+      "title": "How to Automate Your Workflow with Python"
+    },
+    {
+      "id": 6,
+      "title": "The Future of No-Code and Low-Code Platforms"
+    },
+    {
+      "id": 7,
+      "title": "Building Scalable Applications: Key Principles"
+    },
+    {
+      "id": 8,
+      "title": "Data Privacy in the Age of AI"
+    },
+    {
+      "id": 9,
+      "title": "How to Start a Tech Blog and Monetize It"
+    },
+    {
+      "id": 10,
+      "title": "Common Mistakes Developers Make and How to Avoid Them"
+    }
+  ]
+}
