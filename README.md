@@ -1,5 +1,7 @@
 # 🔧 Self-Healing Web Scraper
 
+![Self-Healing Web Scraper Concept](./download.png)
+
 A web scraper that automatically detects broken CSS selectors and uses AI to repair them — without human intervention. Built with [Crawlee for Python](https://crawlee.dev/python/docs/quick-start), [Parsel](https://parsel.readthedocs.io/), and [OpenRouter](https://openrouter.ai/).
 
 > **📖 Full article:** Read the full tutorial on the Apify/Crawlee Blog *(link coming soon!)*
